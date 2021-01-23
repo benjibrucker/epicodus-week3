@@ -1,7 +1,14 @@
-jQuery(document).ready(function() {
-  const sentence prompt("what's your favorite phrase")
+$(document).ready(function() {
+  const sentence = prompt("what's your favorite phrase")
 
-  sentence.charAt(1);
+  //sentence.charAt(1);
 
-  alert(sentence);
+  //alert(sentence);
+
+  //console.log(sentence)
+ // const name = prompt('your name');
+  
+
+//console.log(sentence);
+  console.log(sentence);
 });
